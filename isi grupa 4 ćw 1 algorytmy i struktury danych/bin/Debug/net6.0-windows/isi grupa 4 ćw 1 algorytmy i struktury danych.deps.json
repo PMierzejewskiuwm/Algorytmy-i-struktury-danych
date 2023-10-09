@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "isi grupa 4 ćw 1 algorytmy i struktury danych/1.0.0": {
+        "runtime": {
+          "isi grupa 4 ćw 1 algorytmy i struktury danych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isi grupa 4 ćw 1 algorytmy i struktury danych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

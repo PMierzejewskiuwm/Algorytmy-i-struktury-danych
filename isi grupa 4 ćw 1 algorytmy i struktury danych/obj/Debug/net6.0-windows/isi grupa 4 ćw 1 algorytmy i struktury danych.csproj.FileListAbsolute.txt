@@ -1,0 +1,17 @@
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\bin\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.exe
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\bin\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.deps.json
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\bin\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.runtimeconfig.json
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\bin\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.dll
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\bin\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.pdb
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.csproj.AssemblyReference.cache
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi_grupa_4_ćw_1_algorytmy_i_struktury_danych.Form1.resources
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.csproj.GenerateResource.cache
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.AssemblyInfoInputs.cache
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.AssemblyInfo.cs
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.dll
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\refint\isi grupa 4 ćw 1 algorytmy i struktury danych.dll
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.pdb
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\isi grupa 4 ćw 1 algorytmy i struktury danych.genruntimeconfig.cache
+C:\Users\local\Desktop\ćwiczenia 1 09.10.2023\isi grupa 4 ćw 1 algorytmy i struktury danych\obj\Debug\net6.0-windows\ref\isi grupa 4 ćw 1 algorytmy i struktury danych.dll
