@@ -1,0 +1,17 @@
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\bin\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.exe
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\bin\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.deps.json
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\bin\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.runtimeconfig.json
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\bin\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.dll
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\bin\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.pdb
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.csproj.AssemblyReference.cache
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2_algorytmy_i_stuktury_danych.Form1.resources
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.csproj.GenerateResource.cache
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.AssemblyInfoInputs.cache
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.AssemblyInfo.cs
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.dll
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\refint\ćwiczenia2 algorytmy i stuktury danych.dll
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.pdb
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ćwiczenia2 algorytmy i stuktury danych.genruntimeconfig.cache
+C:\Users\local\Desktop\ćwiczenia2 27.10.2023\ćwiczenia2 algorytmy i stuktury danych\obj\Debug\net6.0-windows\ref\ćwiczenia2 algorytmy i stuktury danych.dll

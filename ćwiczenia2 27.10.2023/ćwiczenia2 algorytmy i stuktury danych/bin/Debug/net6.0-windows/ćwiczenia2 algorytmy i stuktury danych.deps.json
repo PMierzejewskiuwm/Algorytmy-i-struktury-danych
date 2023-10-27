@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ćwiczenia2 algorytmy i stuktury danych/1.0.0": {
+        "runtime": {
+          "ćwiczenia2 algorytmy i stuktury danych.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ćwiczenia2 algorytmy i stuktury danych/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
