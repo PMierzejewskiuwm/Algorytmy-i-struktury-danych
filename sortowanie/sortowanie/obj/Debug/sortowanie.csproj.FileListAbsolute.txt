@@ -1,0 +1,10 @@
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\bin\Debug\sortowanie.exe.config
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\bin\Debug\sortowanie.exe
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\bin\Debug\sortowanie.pdb
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.AssemblyReference.cache
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.Form1.resources
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.Properties.Resources.resources
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.GenerateResource.cache
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.exe
+C:\Users\km\Desktop\sorts\sortowanie\sortowanie\obj\Debug\sortowanie.pdb
