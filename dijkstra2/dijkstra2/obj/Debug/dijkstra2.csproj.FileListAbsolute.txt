@@ -1,0 +1,10 @@
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\bin\Debug\dijkstra2.exe.config
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\bin\Debug\dijkstra2.exe
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\bin\Debug\dijkstra2.pdb
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.csproj.AssemblyReference.cache
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.Form1.resources
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.Properties.Resources.resources
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.csproj.GenerateResource.cache
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.csproj.CoreCompileInputs.cache
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.exe
+C:\Users\km\Desktop\Dijkstra\dijkstra2\dijkstra2\obj\Debug\dijkstra2.pdb
