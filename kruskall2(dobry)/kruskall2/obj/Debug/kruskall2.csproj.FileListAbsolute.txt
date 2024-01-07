@@ -1,0 +1,10 @@
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\bin\Debug\kruskall2.exe.config
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\bin\Debug\kruskall2.exe
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\bin\Debug\kruskall2.pdb
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.csproj.AssemblyReference.cache
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.Form1.resources
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.Properties.Resources.resources
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.csproj.GenerateResource.cache
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.csproj.CoreCompileInputs.cache
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.exe
+C:\Users\km\Desktop\Kruskal\kruskall2\kruskall2\obj\Debug\kruskall2.pdb
