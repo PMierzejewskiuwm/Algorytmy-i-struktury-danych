@@ -1,0 +1,5 @@
+kolejka FIFO (First In First Out)
+kolejka LIFO (Last In First Out)
+kolejka, kolejka priorytetowa
+stos
+counting sort
