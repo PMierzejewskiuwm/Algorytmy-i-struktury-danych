@@ -1,0 +1,11 @@
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\bin\Debug\cwiczenia.exe.config
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\bin\Debug\cwiczenia.exe
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\bin\Debug\cwiczenia.pdb
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csproj.AssemblyReference.cache
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csproj.SuggestedBindingRedirects.cache
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.Form1.resources
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.Properties.Resources.resources
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csproj.GenerateResource.cache
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.csproj.CoreCompileInputs.cache
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.exe
+C:\Users\local\Desktop\cw 08.01.2024\cwiczenia\cwiczenia\obj\Debug\cwiczenia.pdb
